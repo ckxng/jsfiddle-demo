@@ -1,0 +1,13 @@
+---
+name: Hello World
+description: Demo of JSFiddle from a GH repo
+authors:
+  - Cameron King
+resources:
+  - https://ckxng.github.io/jsfiddle-demo/lib/say-it-here.js
+wrap: d
+normalize_css: no
+html_panel: 0
+css_panel: 0
+js_panel: 0
+dtd: html 5
