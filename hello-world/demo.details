@@ -9,5 +9,5 @@ wrap: d
 normalize_css: no
 html_panel: 0
 css_panel: 0
-js_panel: 1
+js_panel: 0
 dtd: html 5
