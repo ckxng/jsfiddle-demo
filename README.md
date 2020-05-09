@@ -1,3 +1,3 @@
 # jsfiddle-demo
 
-- [Hello World](hello-world/)
+- [Hello World](https://jsfiddle.net/gh/get/library/pure/ckxng/jsfiddle-demo/tree/master/hello-world)
